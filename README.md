@@ -90,6 +90,9 @@ System logs are essential for diagnosing application failures.
 This project simulates how **technical support engineers and system administrators analyze logs to detect system issues and identify recurring failures quickly.**
 
 ---
+## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
 
 ## Future Improvements
 
