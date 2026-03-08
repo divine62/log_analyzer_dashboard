@@ -1,0 +1,6 @@
+
+===== LOG ANALYSIS REPORT =====
+
+Total Errors: 3
+Total Warnings: 2
+Total Failed Events: 1
